@@ -10269,7 +10269,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid palegoldenrod;
+    border-left: 0.5rem solid #DBE7C9;
   }
 }
 .projects-section .project-text {
@@ -10281,7 +10281,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: palegoldenrod;
+    border-color: #DBE7C9;
     border-width: 0.25rem;
     width: 30%;
   }
