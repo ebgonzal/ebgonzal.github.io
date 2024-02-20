@@ -10238,7 +10238,7 @@ body {
 }
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 4rem;
   }
 @media (max-width: 767px) {
