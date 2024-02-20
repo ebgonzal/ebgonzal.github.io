@@ -9984,7 +9984,10 @@ a.text-black:hover, a.text-black:focus {
 .text-muted {
   color: #6c757d !important;
 }
-
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" href="https://www.twitter.com/ebgonzal" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
+                    <a class="mx-2" href="https://www.linkedin.com/in/elianabelengonzalez/" target="_blank"><i class="fab fa-linkedin-in fa-lg"></i></a>
+                    <a class="mx-2" href="https://github.com/ebgonzal" target="_blank"><i class="fab fa-github-in fa-lg"></i></a>
 .text-black-50 {
   color: #566573  !important;
 }
@@ -10235,7 +10238,7 @@ body {
 }
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 4rem;
   }
 }
